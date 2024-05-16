@@ -1,6 +1,6 @@
-# my_first_app
+# simple_quiz
 
-A new Flutter project.
+This is my first Flutter project: a simple quiz app. This application is designed to demonstrate the basics of Flutter and Dart.
 
 ## Getting Started
 
